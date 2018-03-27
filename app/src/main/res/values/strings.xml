@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloCompat</string>
+
+    <!-- Button label for change color button -->
+    <string name="button_label">Change Color</string>
+
+    <!-- String in the hello world textview -->
+    <string name="hello_text_string">Hello World!</string>
+</resources>
